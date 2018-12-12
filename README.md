@@ -1,7 +1,7 @@
 # EDAV_final_shiny
 R Shiny app for interactive visualization, EDAV final project
 
-# Link: 
+# Link:
 
 For our interactive component, we created a Shiny app, which can be found at: https://ojdajuiceman.shinyapps.io/test_app/.
 
