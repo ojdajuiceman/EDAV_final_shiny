@@ -1,0 +1,12 @@
+name: test_app
+title: test_app
+username:
+account: ojdajuiceman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 613133
+bundleId: 1754460
+url: https://ojdajuiceman.shinyapps.io/test_app/
+when: 1544494515.59524
+asMultiple: FALSE
+asStatic: FALSE
